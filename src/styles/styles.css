@@ -1,0 +1,33 @@
+.container {
+  max-width: 72rem;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.cv {
+  aspect-ratio: 1 / 1.29;
+  color: black;
+}
+
+h3 {
+  display: flex;
+}
+h3 > span:nth-child(2) {
+  margin-left: auto;
+}
+
+.responsibilities {
+  white-space: pre-line;
+}
+
+input {
+  margin-right: 1rem;
+}
