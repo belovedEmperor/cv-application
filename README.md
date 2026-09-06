@@ -1,1 +1,1 @@
-Deployed (here)[https://cv-application-9gt.pages.dev/]
+Deployed [here](https://cv-application-9gt.pages.dev/)
